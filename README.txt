@@ -24,4 +24,3 @@ Features:
 -APRS functionality
 -Echolink functionality
 -Remote station (use a Pi as a client with PTT mic to the repeater via asterisk)
-
